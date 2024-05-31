@@ -3,10 +3,11 @@ pages of github
 
 ## Sites
 
-- [All in Obsidian](all-in-obsidian.li3huo.com/)
-- [Homesite powered by Hugo](twotwo.github.io/hugo-template/)
+- [All in Obsidian](https://all-in-obsidian.li3huo.com/)
+- [Homesite powered by Hugo](https://twotwo.github.io/hugo-template/)
 
 ## Slides
 
-- [10-step-system](slides.li3huo.com/10-step-system/)
-- [writing-and-coding](slides.li3huo.com/writing-and-coding/)
+- [写作与编码](https://slides.li3huo.com/writing-and-coding/)
+- [十步学习法](https://slides.li3huo.com/10-step-system/)
+- [面向资源的接口设计](https://slides.li3huo.com/resource-oriented-design/)
