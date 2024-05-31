@@ -3,7 +3,7 @@ GitHub 站点仓库：https://github.com/twotwo/twotwo.github.io
 
 ## Sites
 
-- https://twotwo.github.io # Default Site
+- [Default Site](https://twotwo.github.io)
 - [All in Obsidian](https://all-in-obsidian.li3huo.com/)
 - [Homesite powered by Hugo](https://twotwo.github.io/hugo-template/)
 
